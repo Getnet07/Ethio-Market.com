@@ -1,0 +1,31 @@
+body {
+    background-color: blueviolet;
+}
+header {
+    background-color: chartreuse;
+}
+.fa-square-twitter{
+    font-size: 50px;
+    color: skyblue;
+}
+.fa-square-youtube{
+    font-size: 50px;
+    color: red;
+}
+.fa-telegram{
+    font-size: 50px;
+    color: #24A1DE; 
+}
+.fa-phone{
+    font-size: 50px;
+    color: #19A7A4;   
+}
+video{height: 50%;margin-left: 155px;
+    width: 50%;
+}
+meter {
+    height: 50PX;
+    width: 500px;
+}
+
+
